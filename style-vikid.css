@@ -1,0 +1,45 @@
+.button{
+	height: 200px;
+    margin-top: 72px;
+    margin-left: 30%;
+}
+.header{
+	background-image: url('bc.jpg');
+	height: 4200px;
+	width: 140vw;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	align-items: center;
+}
+.t1{
+	height: 760px;
+	margin-left: 166px;
+}
+.t2{
+	height: 760px;
+}
+.t3{
+	height: 760px;
+	margin-left: 166px;
+}
+.t4{
+	height: 760px;
+}
+.t5{
+	height: 760px;
+	margin-left: 166px;
+}
+.t6{
+	height: 760px;
+}
+.t7{
+	height: 760px;
+	margin-left: 166px;
+}
+.t8{
+	height: 760px;
+}
+.t9{
+	height: 760px;
+	margin-left: 166px;
+}

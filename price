@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>EbelWEB</title>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+<body>
+<div class="price-list">
+	<div class="conateiner">
+		<div class="price-info">
+			<div class="price-title">
+				СТОИМОСТЬ РАЗРАБОТКИ <br> САЙТА
+			</div>
+			<div class="price-subtitle">
+				Каждый сайт, который мы создаем, исходит из индивидуального технического задания, <br> разработанного специально для вашей отрасли, с учетом всех особенностей вашего продукта. Цены <br> на разработку устанавливаются с учетом детального исследования концепции и дизайна сайта.
+			</div>
+			<div class="card-price111">
+			<div class="card-price">
+				<div class="card-title-price">
+					LANDING PAGE
+				</div>
+				<div class="card-text-price">
+					Лендинг пейдж - это <br> страница, специально <br> созданная для <br> максимального привлечения и удержания <br> посетителей, полученных <br> из рекламных источников, с <br> целью повышения <br> конверсии и <br> эффективности платного <br> трафика.
+				</div>
+				<div class="cost1">
+					От 10 000 рублей
+				</div>
+				<div class="price-btn">
+					<a href="#" class="price-button">Заказать</a>
+				</div>
+			</div>
+			<div class="card-price">
+				<div class="card-title-price">
+					САЙТ УСЛУГ
+				</div>
+				<div class="card-text-price">
+					В сфере услуг сайт <br> заказывается как для B2B, <br> так и для B2C сегментов. Он <br> имеет привлекательный <br> дизайн, быструю загрузку и <br> удобную систему <br> управления контентом <br> (CMS) для <br> администрирования и <br> работы с контентом.
+				</div>
+				<div class="cost2">
+					От 20 000 рублей
+				</div>
+				<div class="price-btn">
+					<a href="#" class="price-button2">Заказать</a>
+				</div>
+			</div>
+			<div class="card-price">
+				<div class="card-title-price">
+					ИНТЕРНЕТ <br> МАГАЗИН
+				</div>
+				<div class="card-text-price">
+					У нас вы можете получить <br> полнофункциональный <br> интернет-магазин с <br> настройкой воронки <br> продаж и интеграцией с <br> CRM и 1С. Мы также <br> предлагаем подключение <br> онлайн-кассы согласно <br> требованиям закона 54-ФЗ.
+				</div>
+				<div class="cost3">
+					От 40 000 рублей
+				</div>
+				<div class="price-btn">
+					<a href="#" class="price-button3">Заказать</a>
+				</div>
+			</div>
+			<div class="card-price">
+				<div class="card-title-price1">
+					КОРПОРАТИВНЫЙ <br> САЙТ
+				</div>
+				<div class="card-text-price">
+					Сайт компании необходим<br> для обеспечения<br> внутренней коммуникации <br> в фирме и предоставления <br>информации о продуктах<br> или услугах, которые мы <br>предлагаем.			
+				</div>
+				<div class="cost4">
+					От 30 000 рублей
+				</div>
+				<div class="price-btn">
+					<a href="#" class="price-button4">Заказать</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

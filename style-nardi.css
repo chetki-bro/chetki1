@@ -1,0 +1,17 @@
+	.header{
+		background-image: url('bc.jpg');
+		height: 2400px;
+		width: 140vw;
+		background-repeat: no-repeat;
+		background-size: cover;	
+		align-items: center;	
+	}
+	.t0{
+		height: 760px;
+		margin-left: 166px;
+	}
+	.button{
+		height: 200px;
+    	margin-top: 72px;
+    	margin-left: 30%;
+	}

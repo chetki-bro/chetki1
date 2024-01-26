@@ -1,0 +1,488 @@
+	.card-text{
+		margin-top: 45px;
+		font-size: 20px;
+		font-weight: 400;
+		color: #fff;
+	}
+	.contacts-subtitle3{
+		font-size: 16px;
+		font-weight: 400;
+		color: #fff;
+		margin-left: 875px;
+		margin-top: 10px;
+
+	}
+	.img-footer{
+		display: flex;
+		margin-left: 390px;
+		margin-top: 53px;
+		gap: 100px;
+		transition: background-color 0.3s linear;
+	}
+	.img-footer:hover{
+		color: #003399;
+	}
+	.footer-num{
+		margin-top: 93px;
+	}
+	.footer-title{
+		font-size: 32px;
+		font-weight: 700;
+		margin-left: 97px;
+		margin-top: 97px;
+		color: #fff;
+	}
+	.foot-num{
+		color: #fff;
+		text-decoration: none;
+		font-size: 36px;
+		font-weight: 700;
+		margin-top: 101px;
+		margin-left: 644px;
+	}
+	.footer{
+		background: #333333;
+		height: 70vh;
+		width: 400px;
+		background-repeat: no-repeat;
+		background-size: cover;	
+		align-items: center;	
+		text-align: center;
+	}
+	.footer-logo{
+		display: flex;
+		margin-top: 490px;
+		padding: 0px 10px;
+		margin-left: 275px;
+	
+	}
+	.footer.logo{
+		margin-top: 64px;
+	}
+	.footer\.logo{
+		margin-top: 93px;
+	}
+	.footer-text{
+		font-size: 42px;
+		color: #82BB81;
+		margin-top: 101px;
+		font-family: montserrat;
+		font-weight: 700;
+	}
+	.contacts-subtitle2{
+		margin-left: 875px;
+		margin-top: 19px;
+		color: #fff;
+		font-size: 20px;
+		font-weight: 600;
+	}
+	.contacts-button{	
+		color: #fff;
+		text-decoration: none;
+		font-size: 16px;
+		font-weight: 600;	
+		background-color: #82BB81;
+		padding: 15px 25px;
+		transition: background-color 0.3s linear;
+	}
+	.info-contacts{
+		display: flex;
+	}
+	.contacts-title2{
+		font-size: 32px;
+		font-weight: 700;
+		color: #fff;
+		margin-left: 860px;
+		margin-top: -467px;
+	}
+	.contacts-btn{
+		margin-top: 168px;
+		margin-left: 35px;
+	}
+	.stroka1{
+		margin-top: 12px;
+		margin-left: 25px;
+	}
+	.contacts-name-is1{
+		color: #fff;
+		font-size: 16px;
+		font-weight: 400;
+		text-decoration: none;
+		margin-left: 33px;
+	}
+	.contacts-name-is{
+		margin-top: 23px;
+	}
+	.contacts-card-title{
+		text-align: center;
+		font-size: 20px;
+		font-weight: 700;
+		color: #fff;
+		margin-top: 31px;
+	}
+	.contacts-card{
+		background-image: url('price-card.png');
+		width: 500px;
+		height: 458px;
+		margin-left: 375px;
+		margin-top: 55px;
+	}
+	.contacts-subtitle{
+		color: #fff;
+		font-weight: 400;
+		font-size: 20px;
+		margin-top: 44px;
+		margin-left: 375px;
+	}
+	.contacts-title{
+		color: #fff;
+		font-size: 40px;
+		font-weight: 700;
+		margin-left: 265px;
+	}
+	.contacts{
+		background: #333333;
+		height: 180vh;
+	}
+	.price-button{
+		color: #fff;
+		text-decoration: none;
+		font-size: 24px;
+		font-weight: 600;	
+		background-color: #82BB81;
+		padding: 15px 25px;
+		margin-left: 80px;
+		transition: background-color 0.3s linear;
+	}
+	.price-btn{
+		margin-top: 41px;
+	}
+	.price-button2{
+		color: #fff;
+		text-decoration: none;
+		font-size: 24px;
+		font-weight: 600;	
+		background-color: #82BB81;
+		padding: 15px 25px;
+		margin-left: 80px;
+		transition: background-color 0.3s linear;
+	}
+	.price-button3{
+		color: #fff;
+		text-decoration: none;
+		font-size: 24px;
+		font-weight: 600;	
+		background-color: #82BB81;
+		padding: 15px 25px;
+		margin-left: 80px;
+		transition: background-color 0.3s linear;
+	}
+	.card-title-price1{
+		padding-top: 40px;
+		color: #fff;
+		padding-left: 0px;
+		font-size: 24px;
+		font-weight: 600;
+		text-align: center;
+	}
+	.price-button4{
+		color: #fff;
+		text-decoration: none;
+		font-size: 24px;
+		font-weight: 600;	
+		background-color: #82BB81;
+		padding: 15px 25px;
+		margin-left: 80px;
+		transition: background-color 0.3s linear;
+	}
+	.cost4{
+		color: #fff;
+		font-size: 24px;
+		font-weight: 600;
+		margin-top: 80px;
+		margin-left: 53px;
+	}
+	.cost3{
+		color: #fff;
+		font-size: 24px;
+		font-weight: 600;
+		margin-top: 43px;
+		margin-left: 53px;
+	}
+	.card-price111{
+		display: flex;
+	}
+	.card-price{
+		margin: -220px;
+	}
+	.price-button:hover{
+		background-color: #336699;
+	}
+	.cost2{
+		color: #fff;
+		font-size: 24px;
+		font-weight: 600;
+		margin-top: 50px;
+		margin-left: 53px;
+	}
+	.cost1{
+		color: #fff;
+		font-size: 24px;
+		font-weight: 600;
+		margin-top: 32px;
+		margin-left: 53px;
+	}
+	.card-text{
+		margin-top: 40px;
+	}
+	.card-price{
+		background-image: url('price-card.png');
+		width: 310px;
+		height: 510px;
+		margin-left: 245px;
+		margin-top: 20px;
+	}
+	.card-title-price{
+		padding-top: 40px;
+		color: #fff;
+		padding-left: 58px;
+		font-size: 24px;
+		font-weight: 600;
+	}
+	.card-text-price{
+		color: #fff;
+		font-size: 16px;
+		font-weight: 200;
+		margin-left: 46px;
+		margin-top: 30px;
+	}
+	.price-subtitle{
+		color: #fff;
+		font-weight: 400;
+		font-size: 20px;
+		margin-top: 44px;
+		margin-left: 375px;
+	}
+	.price-list{
+		background: #333333;
+		height: 140vh;
+	}
+	.price-title{
+		font-size: 40px;
+		font-weight: 700;
+		color: #fff;
+		margin-left: 265px;
+	}
+	.card-info2{
+		color: #fff;
+		margin-top: -37px;
+		margin-left: 203px;
+		font-weight: 400;
+		text-align: right;
+	}
+	.card-button{
+		color: #fff;
+		text-decoration: none;
+		font-size: 40px;
+		font-weight: 500;
+		
+		background-color: #82BB81;
+		padding: 10px 20px;
+		margin-top: 58px;
+		margin-left: 49px;
+		transition: background-color 0.3s linear;
+	}
+	.card-button:hover{
+		background-color: #336699;
+	}
+	.card-info1{
+		color: #fff;
+		font-size: 17px;
+		margin-top: 37px;
+	}
+	.card-title{
+		font-size: 20px;
+		color: #fff;
+		font-weight: 400;
+	}
+	.card-btn{
+		margin-top: -1000px;
+	}
+	.card-size{
+		margin-left: 35px;
+	}
+	.card-subtitle{
+		font-size: 17px;
+		color: #fff;
+		font-weight: 400;
+	}
+	.card{
+		background-image: url('history-img2.png');
+		width: 363px;
+		margin-top: -460px;
+		margin-left: 913px;
+		height: 410px;
+		padding: 23px 28px;
+	}
+	.history-images1{
+		margin-left: 240px;
+		margin-top: 546px;
+		width: 639px;
+		height: 458px;
+	}
+	.history-text{
+		font-size: 32px;
+		font-weight: 300;
+		margin-left: 210px;
+		color: #000;
+		margin-top: 76px;
+	}
+	.history-title{
+		font-size: 40px;
+		font-weight: 600;
+		margin-left: 150px;
+		color: #fff;
+	}
+	.history{
+		background: #6699ff;
+		height: 150vh;
+		width: 155vw;
+		background-repeat: no-repeat;
+		background-size: cover;	
+		align-items: center;
+
+	}
+	.head-btn:hover{
+		background-color: #336699;
+	}
+	.text-head2{
+		margin-left: 22px;
+	}
+	.text-header{
+		display: flex;
+		color: #ACACAC;
+		font-size: 20px;
+		font-weight: 500; 
+		margin-top: -40px;
+	}
+	.header-images{
+		margin-top: -330px;
+		margin-left: 600px;
+		height: 540px;
+	}
+	.head-btn{
+		color: #fff;
+		text-decoration: none;
+		font-size: 24px;
+		font-weight: 500;
+		padding: 30px;
+		margin-top: 20px;
+		background-color: #82BB81;
+		padding: 20px 30px;
+		margin-top: 38px;
+		transition: background-color 0.3s linear;
+	}
+	.subtitle2{
+		font-weight: 600;
+		font-size: 29px;
+		color: #000;
+		width:568px;
+		height:122px;
+		font-family: montserrat;
+		margin-bottom: 58px;
+	}
+	.title{
+		font-size: 76px;
+		font-weight: 700;
+		color: #fff;
+		margin-top: 181px;
+		margin-left: 35%;
+	}
+	.subtitle{
+		font-size: 54px;
+		color: #fff;
+		margin-left: 5%;
+		font-weight: 500;
+		margin-top: 65px;
+	}
+	.a:hover{
+		color: #82BB81;
+	}
+	.img222{
+		height: 540px;
+	}
+	.header-menu{
+
+	}
+	.menu-text{
+		margin-top: -200px;
+		margin-left: 672px;
+		font-weight: 700;
+	}
+	.a{
+		color: #fff;
+		font-size: 72px;
+		text-decoration: none;
+		margin-right: 131px;
+		transition: color 0.3s linear;
+	}
+	.photo1{
+		height: 600px;
+		margin-top: 50px;
+		margin-left: 100px;
+	}
+	.photo2{
+		height: 600px;
+		margin-left: 100px;
+		margin-top: 84px;
+	}
+	.kat{
+		font-size: 76px;
+		color: #fff;
+		margin-top: 181px;
+		margin-left: 85px; 
+		font-weight: 600;
+	}
+	.pr{
+		color: #fff;
+		font-size: 72px;
+		text-decoration: none;
+		margin-right: 131px;
+		margin-left: 67px;
+		transition: color 0.3s linear;
+	}
+	.header-text{
+		font-size: 42px;
+		color: #82BB81;
+		margin-top: 68px;
+		font-family: montserrat;
+		font-weight: 700;
+	}
+	.card-text{
+		margin-top: 30px;
+	}
+	.logo{
+		margin-top: 61px;
+		padding: 0px 10px;
+		height: 312px;
+		margin-left: 100px;
+	}
+	.header{
+		background-image: url('bc.jpg');
+		height: 2400px;
+		width: 140vw;
+		background-repeat: no-repeat;
+		background-size: cover;	
+		align-items: center;	
+	}
+	.conteiner{
+		margin: 1px 140px;
+	}
+	.sait{
+		background-image: url('bc.jpg');
+	}
+	.button{
+	height: 242px;
+    margin-top: 72px;
+    margin-left: 21%;
+	}
